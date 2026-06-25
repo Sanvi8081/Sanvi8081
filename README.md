@@ -2,7 +2,7 @@
 
 
 
-💻 Aspiring Backend Developer passionate about building scalable applications.
+💻 Building scalable backend systems with NestJS, FastAPI, PostgreSQL and exploring AI-powered applications.
 
 🚀 Currently working with FastAPI, NestJS, and PostgreSQL to strengthen my backend development skills.
 
