@@ -1,6 +1,6 @@
 # Hi, I'm Sanvi Porwal 👋
 
-![](https://komarev.com/ghpvc/?username=Sanvi8081&label=Profile%20Views&color=0e75b6&style=flat)
+
 
 💻 Aspiring Backend Developer passionate about building scalable applications.
 
@@ -43,4 +43,4 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ---
-
+![](https://komarev.com/ghpvc/?username=Sanvi8081&label=Profile%20Views&color=0e75b6&style=flat)
